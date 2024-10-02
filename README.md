@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MikTekielak
-- 👀 I’m interested in Front-end/HTML/CSS/JavaScript/C++
-- 🌱 I’m currently learning React.js
+- 👀 I’m a C++ developer
 - 📫 You can reach me via my email: mik.tekielak@gmail.com
 
 <!---
